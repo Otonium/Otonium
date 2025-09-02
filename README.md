@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently studying System Development<br>- ⚡ In my free time I code games, websites, and mess with circuits.</p>
+<p align="left">I'm Antonio Carlos from Brazil<br><br>- 📚 I'm currently studying System Development<br>- ⚡ In my free time I am really into coding games, websites, and mess with circuits.</p>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 Estou estudando Tecnico em Desenvolvimento de Sistemas<br>- ⚡ No meu tempo livre gosto de programar games, websites e estudar e mexer com circuitos.</p>
+<p align="left">- 📚 Estou estudando Tecnico em Desenvolvimento de Sistemas<br>- ⚡ No meu tempo livre gosto de programar games, websites e estudar e mexer com circuitos.</p>
 
 ###
 
